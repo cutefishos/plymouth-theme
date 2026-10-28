@@ -1,4 +1,4 @@
-# CutefishOS Plymouth Theme
+# Cutefish Plymouth Theme
 
 Cutefishos boot background
 

@@ -8,4 +8,4 @@ Standards-Version: 3.9.6
 Package: cutefish-plymouth-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Plymouth theme for CutefishOS.
+Description: Plymouth theme for Cutefish.
